@@ -20,7 +20,7 @@ Ferramenta de monitoramento e limpeza de memória RAM para sistemas Windows, com
 - Encerrar processos indesejados.
 
 
-## dependências o script
+## dependências do script
 
 | Módulo | Detalhes |
 | -- | -- |
