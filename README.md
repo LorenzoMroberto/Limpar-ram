@@ -11,11 +11,7 @@
 
 Script para limpar a ram do Windows 10/11
 
-O script tem como intuito ser um software similar ao widget 'Otimizar' do sistema Android da samsung, porém voltado para 
-o lado da memória ram.
-
-
-🎯 Objetivo Principal
+🎯 Objetivo Principal:
 Ferramenta de monitoramento e limpeza de memória RAM para sistemas Windows, com interface gráfica amigável, permitindo ao usuário:
 
 - Ver o uso atual da RAM.
