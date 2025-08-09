@@ -20,7 +20,6 @@ memória ram.
 | -- | -- |
 | pywin32 | Terá que baixar |
 | psutil | Terá que baixar |
-| Pillow | Terá que baixar |
 | os | Interno para python 3.5+ |
 | tkinter | Interno para python 3+ |
 | ctypes | Interno para python 3.5+ |
