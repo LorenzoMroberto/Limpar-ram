@@ -11,8 +11,8 @@
 
 Script para limpar a ram do Windows 10/11
 
-O script tem como intuito ser um software similar ao widget 'Otimizar' do sistema Android da samsung, porém para o lado da
-memória ram.
+O script tem como intuito ser um software similar ao widget 'Otimizar' do sistema Android da samsung, porém voltado para 
+o lado da memória ram.
 
 ## dependências o script
 
