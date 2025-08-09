@@ -13,3 +13,14 @@ Script para limpar a ram do Windows 10/11
 
 O script tem como intuito ser um software similar ao widget 'Otimizar' do sistema Android da samsung, porém para o lado da
 memória ram.
+
+## dependências o script
+
+| Módulo | Detalhes |
+| -- | -- |
+| pywin32 | Terá que baixar |
+| psutil | Terá que baixar |
+| Pillow | Terá que baixar |
+| os | Interno para python 3.5+ |
+| tkinter | Interno para python 3+ |
+| ctypes | Interno para python 3.5+ |
