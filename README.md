@@ -1,6 +1,6 @@
 # Limpar-ram
 
-![Python](https://img.shields.io/badge/Python-3.x+-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-XX+-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
 ![Versão](https://img.shields.io/badge/Versão-1.0-blue)
 ![Dependencies](https://img.shields.io/badge/dependencies-2-brightgreen)
